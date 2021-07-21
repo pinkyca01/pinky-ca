@@ -1,1 +1,0 @@
-exports.yag = require('./faa')
